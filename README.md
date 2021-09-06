@@ -38,7 +38,7 @@ Transaction sent: 0x5d1e2931aff56b34f6f12f6bb7530206bb8736f27331f8c5f089486e99dc
   Gas price: 0.0 gwei   Gas limit: 12000000   Nonce: 4
   Swap.sArb confirmed - Block: 13172978   Gas used: 109420 (0.91%)
 
-#usdt.balanceOf(accounts[0]), usdt.balanceOf(z), web3.eth.getBalance( str(z) ), web3.eth.getBalance( str(accounts[0]) )
+usdt.balanceOf(accounts[0]), usdt.balanceOf(z), web3.eth.getBalance( str(z) ), web3.eth.getBalance( str(accounts[0]) )
 (0, 0, 0, 99991031507319623591)
 
 ```
